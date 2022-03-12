@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import {styled} from "@mui/system";
