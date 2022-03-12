@@ -1,2 +1,12 @@
-# Simple weather app with Material UI
-
+# Simple weather app
+A simple weather app. Use current geolocation (all) or city (Russian only)
+## Stack
+1. React + TypeScript
+2. UI - Material UI
+3. State - MobX
+4. API - [Open weather map](https://openweathermap.org/)
+## Using
+1. Get API key on [go kitty go](https://home.openweathermap.org/api_keys), insert into ```selectGeo.tsx``` file 
+2. ```npm install```
+3. ```npm start```
+4. _click click click_
