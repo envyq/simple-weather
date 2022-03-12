@@ -1,4 +1,5 @@
 # Simple weather app
+A simple weather app. Use current geolocation (all) or city (Russian only)
 ## Stack
 1. React + TypeScript
 2. UI - Material UI
